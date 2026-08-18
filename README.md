@@ -429,4 +429,4 @@ For support or requests for this actor, please start a ticket [directly on our s
 
 *Use the Realestate.com.au Property API to put sold property prices, rentals, and for-sale listings into your own pipeline.*
 
-Last Updated: 2026.08.17
+Last Updated: 2026.08.18
