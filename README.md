@@ -246,6 +246,17 @@ Rental rows swap in `rentPrice` and `rentCurrency`. A search that returns nothin
 
 The source publishes an automated valuation on some pages, but in live testing those fields were overwhelmingly empty, so they are left out rather than shipped permanently null. Use `estimatedPrice` and `estimatedPriceValue`, and read them as an estimate.
 
+<!-- ask-ai:start -->
+## 🤖 Ask an AI assistant about this Actor
+
+Open a ready-to-send prompt about the Realestate.com.au Property API in the AI of your choice:
+
+- 💬 [ChatGPT](https://chatgpt.com/?q=Using%20the%20Realestate.com.au%20Property%20API%20on%20Apify%20%28https://apify.com/johnvc/realestate-au-property-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Check%20Sold%20Property%20Prices%20in%20Any%20Australian%20Suburb%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🧠 [Claude](https://claude.ai/new?q=Using%20the%20Realestate.com.au%20Property%20API%20on%20Apify%20%28https://apify.com/johnvc/realestate-au-property-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Check%20Sold%20Property%20Prices%20in%20Any%20Australian%20Suburb%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🔍 [Perplexity](https://www.perplexity.ai/search?q=Using%20the%20Realestate.com.au%20Property%20API%20on%20Apify%20%28https://apify.com/johnvc/realestate-au-property-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Check%20Sold%20Property%20Prices%20in%20Any%20Australian%20Suburb%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🅒 [Copilot](https://copilot.microsoft.com/?q=Using%20the%20Realestate.com.au%20Property%20API%20on%20Apify%20%28https://apify.com/johnvc/realestate-au-property-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Check%20Sold%20Property%20Prices%20in%20Any%20Australian%20Suburb%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+<!-- ask-ai:end -->
+
 ## People also search for
 
 ### Does realestate.com.au have an API?
